@@ -1,0 +1,37 @@
+.about-section {
+    box-shadow: 15px 9px 9px -2px rgba(238, 224, 224, 0.86); 
+    -webkit-box-shadow: 15px 9px 9px 2px rgba(238, 224, 224, 0.86); 
+    -moz-box-shadow: 15px 9px 9px -2px rgba(230, 224, 224, 0.86);
+    height: 400px;
+
+    
+  
+   
+}
+
+
+.About-image img{
+    height: 300px;
+    width: 300px;
+    border-radius: 190px;
+    margin: 40px;
+    border: 5px solid yellow;
+    
+    
+}
+.about-details{
+    margin-top: 50px;
+    margin: 60px;
+    width: 500px;
+}
+.about-title h5{
+
+    text-align: center;
+    margin: 6px;
+} 
+.line{
+    display: block;
+    width: 70px;
+    margin: 1px auto;
+    background-color: yellowgreen;
+}

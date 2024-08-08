@@ -1,0 +1,76 @@
+.home{
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    background-position: 100%;
+    background-size: cover;
+
+
+
+
+  height: 300px;
+  padding-left: 0px;
+  color:white;
+  background-image:linear-gradient(to right, #051937,#004d7a,#008793,#00bf72);
+
+}
+
+.home-content{
+    
+   justify-content:center;
+    padding: 5px;
+    margin-top:10px;
+    margin: 120px;
+}
+
+
+.home-content h3{
+    margin-top:20px;
+    color: yellow;
+
+}
+.button-for-action{
+    display: flex;
+}
+
+.hire-me-button{
+    background-color:#FF854C;
+    text-align:center;
+    width: 180px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-top: 10px;
+    border: 2px solid yellow;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hire-me-button:hover{
+background-color: white;
+width: 250px;
+color: black;
+transition-duration: 1s;
+}
+.get-resume-button {
+    background-color:yellowgreen;
+    text-align:center;
+    width: 180px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-top: 10px;
+    border: 2px solid yellow;
+    font-size: 17px;
+    margin-left: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.get-resume-button:hover{
+background-color: rgb(238, 174, 13);
+width: 250px;
+color: black;
+transition-duration: 1s;
+}
+.get-resume-button a{
+    text-decoration: none;
+    color:black;
+}
